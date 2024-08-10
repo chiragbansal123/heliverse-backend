@@ -1,0 +1,15 @@
+{
+  "name": "heliverse-backend",
+  "version": "1.0.0",
+  "description": "It contains the backend of heliverse assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chirag Bansal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2"
+  }
+}
